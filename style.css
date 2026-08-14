@@ -135,7 +135,7 @@ h1 {
 .option input {
     width: 18px;
     height: 18px;
-    accent-color: #6366f1;
+    accent-color: #ec4899;
     cursor: pointer;
 }
 
@@ -144,7 +144,7 @@ h1 {
     border: none;
     padding: 15px;
     border-radius: 10px;
-    background: #6366f1;
+    background: #ec4899;
     color: white;
     font-size: 16px;
     font-weight: bold;
